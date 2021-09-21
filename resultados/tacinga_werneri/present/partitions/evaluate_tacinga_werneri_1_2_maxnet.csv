@@ -1,0 +1,2 @@
+"","kappa","spec_sens","no_omission","prevalence","equal_sens_spec","sensitivity","species_name","algorithm","run","partition","presencenb","absencenb","correlation","pvaluecor","AUC","AUC_pval","AUCratio","pROC","pROC_pval","TSSmax","KAPPAmax","dismo_threshold","prevalence.value","PPP","NPP","TPR","TNR","FPR","FNR","CCR","Kappa","F_score","Jaccard"
+"thresholds",0.51211277,0.51211277,0.51211277,0.37787888,0.51211277,0.52414333,tacinga_werneri,"maxnet",1,2,6,10,0.682102807480889,0.00360508756406937,1,NA,2,1.92150582857483,0,1,1,"spec_sens",0.375,1,1,1,1,0,0,1,1,1,1
